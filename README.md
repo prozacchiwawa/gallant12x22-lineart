@@ -8,3 +8,5 @@ Thanks to Joshua M Clulow for doing the initial conversion from raster to ttf.
 
 Feel free to make proper curves and such from the lines I added.  This is one possible
 interpretation of the way I think gallant should look.
+
+![Font Preview](https://github.com/prozacchiwawa/gallant12x22-lineart/raw/main/screenshot.png)
